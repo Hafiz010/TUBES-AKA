@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734947918 source:c:\users\hafiz fahrial\onedrive - telkom university\semester 3\analisis kompleksitas algoritma\tubes\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
